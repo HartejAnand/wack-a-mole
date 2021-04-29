@@ -1,0 +1,9 @@
+class MOLE{
+    constructor(){
+
+    };
+    display(){
+   
+    };
+}
+
